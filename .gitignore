@@ -1,0 +1,20 @@
+# Source artwork and generated decal files are never committed.
+*.[pP][nN][gG]
+*.[sS][vV][gG]
+*.[zZ][iI][pP]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[wW][eE][bB][pP]
+To Process PNG/
+GT7 SVG/
+previews/
+validation.json
+
+# Local environment and operating-system files.
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
